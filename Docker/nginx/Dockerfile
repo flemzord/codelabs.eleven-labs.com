@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:jessie-slim
 
 MAINTAINER Maxence POUTORD <maxence.poutord@gmail.com>
 
